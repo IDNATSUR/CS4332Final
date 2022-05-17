@@ -1,0 +1,48 @@
+UI
+	Main menu - done
+	How to play
+	Pause - done
+
+Environment
+	space and stars
+	other space objects?
+
+Character models
+	enemy
+		ships
+		environment hazards
+	collectibles
+		extra points
+		power ups
+	player ship
+
+Game Systems
+	player ship
+		Controls
+			movement
+			camera movement
+			shooting
+		values
+			health
+			speed
+	enemy ships
+		AI
+			movement
+			shooting
+		values
+			health
+			damage
+	environment hazards
+		values
+			health
+			damage
+		movement
+	powerups
+		spawn conditions
+		hit detection for collection
+		extra health
+		extra speed
+		extra fire rate
+	shooting
+		laser prefabs
+		hit detection
